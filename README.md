@@ -138,7 +138,7 @@ The app will open automatically in your browser (usually at `http://localhost:85
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [ ] Support additional document formats (DOCX, TXT)
 - [ ] OCR support for scanned/image-based PDFs
@@ -148,7 +148,7 @@ The app will open automatically in your browser (usually at `http://localhost:85
 
 ---
 
-## ⚠️ Known Limitations
+##  Known Limitations
 
 - Currently supports **text-based PDFs only** — scanned/image-only PDFs won't extract text yet (OCR is on the roadmap)
 - DOCX and TXT are not yet supported
@@ -156,7 +156,7 @@ The app will open automatically in your browser (usually at `http://localhost:85
 
 ---
 
-## 👤 Author
+##  Author
 
 **Meesam**
 Data Science Student, COMSATS University Islamabad
