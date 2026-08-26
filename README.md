@@ -19,7 +19,7 @@ Built with **Python**, **Streamlit**, and **Google Gemini** (via **LangChain**).
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Quiz Generation
 ![Quiz generation](image.png)
@@ -64,7 +64,7 @@ Quiz History / Dashboard
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
