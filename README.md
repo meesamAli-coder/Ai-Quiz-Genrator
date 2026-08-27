@@ -22,15 +22,17 @@ Built with **Python**, **Streamlit**, and **Google Gemini** (via **LangChain**).
 ##  Screenshots
 
 ### Quiz Generation
-![Quiz generation](image.png)
+<img width="1527" height="777" alt="Screenshot 2026-08-27 010620" src="https://github.com/user-attachments/assets/a7d26652-3a7f-4878-b99a-f747d60570fa" />
+
 
 
 ### Quiz Results
-![Quiz result](image-1.png)
+<img width="1532" height="777" alt="Screenshot 2026-08-27 010749" src="https://github.com/user-attachments/assets/f0750904-96f9-4ea2-adf0-bd65a39473b0" />
 
 
 ### Dashboard
-![Dashboard](image-2.png)
+<img width="1230" height="411" alt="Screenshot 2026-08-27 010844" src="https://github.com/user-attachments/assets/e0f3e78b-e3f7-45da-a85f-120b5404604c" />
+
 
 
 
